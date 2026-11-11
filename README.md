@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:C026D3,100:06B6D4&height=230&section=header&text=Santiago%20%F0%9F%91%8B&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20Web%20%E2%80%A2%20Creando%20experiencias%20digitales&descSize=20&descAlignY=58" width="100%" alt="Santiago" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:C026D3,100:06B6D4&height=230&section=header&text=Santiago%20%F0%9F%91%8B&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingeniero%20de%20Software%20%E2%80%A2%20Convierto%20ideas%20en%20software%20real&descSize=20&descAlignY=58" width="100%" alt="Santiago" />
 
 <a href="https://github.com/Santiago2509">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=C026D3&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Santiago+%F0%9F%9A%80;Construyo+sitios+web+modernos+con+TypeScript;De+la+idea+al+deploy+en+Vercel+%E2%9A%A1;Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=C026D3&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Santiago+%F0%9F%9A%80;Ingeniero+de+Software+%F0%9F%92%BB;Dise%C3%B1o%2C+construyo+y+despliego+software;Web%2C+backend+y+lo+que+el+problema+pida;Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,13 +14,24 @@
 
 </div>
 
+<img src="./assets/divider.svg" width="100%" height="4" alt="" />
+
 ## 🧑‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo en **sitios web para negocios reales**: tiendas, catálogos y páginas de membresía
-- 🌱 Sigo aprendiendo y mejorando en **TypeScript**, **Java** y **Python**
-- 🎨 Me gusta cuidar el diseño: que se vea bien y que funcione rápido
-- 👯 Abierto a **colaborar** en proyectos web y open source
+<img align="right" src="./assets/coder.svg" width="360" alt="Santiago programando" />
+
+- 💻 Soy **Ingeniero de Software**: me gusta entender el problema, diseñar la solución y llevarla hasta producción
+- 🔭 Actualmente construyo **software para negocios reales**: tiendas, catálogos y plataformas de membresía
+- 🧩 Me muevo entre **TypeScript**, **Java** y **Python** según lo que pida el proyecto
+- 🌐 El desarrollo web es una de mis habilidades, no la única
+- 🎨 Cuido el diseño y la experiencia: que se vea bien y que funcione rápido
+- 🌱 Siempre estoy aprendiendo algo nuevo
+- 👯 Abierto a **colaborar** en proyectos y open source
 - ⚡ Dato curioso: casi todo lo que construyo termina desplegado y en línea
+
+<br clear="right"/>
+
+<img src="./assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -31,6 +42,8 @@
 <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=dark" alt="Herramientas" />
 
 </div>
+
+<img src="./assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 🚀 Proyectos destacados
 
@@ -86,6 +99,8 @@
 
 </details>
 
+<img src="./assets/divider.svg" width="100%" height="4" alt="" />
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -97,7 +112,34 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santiago2509&bg_color=0D1117&color=C026D3&line=7C3AED&point=06B6D4&area=true&area_color=7C3AED&hide_border=true&custom_title=Actividad%20de%20contribuciones" width="100%" alt="Gráfico de actividad" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santiago2509&theme=github_dark" width="100%" alt="Resumen del perfil" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santiago2509&theme=github_dark" alt="Repos por lenguaje" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santiago2509&theme=github_dark" alt="Commits por lenguaje" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santiago2509&theme=github_dark&utcOffset=-5" alt="Horas más productivas" />
+
 </div>
+
+## 🏆 Trofeos
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Santiago2509&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="100%" alt="Trofeos" />
+
+</div>
+
+## 🐍 Mis contribuciones, versión serpiente
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santiago2509/Santiago2509/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Santiago2509/Santiago2509/output/github-snake.svg" width="100%" alt="Serpiente comiéndose mis contribuciones" />
+</picture>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 📫 Contacto
 
